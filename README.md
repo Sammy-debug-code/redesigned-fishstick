@@ -1,5 +1,8 @@
 # redesigned-fishstick
 # School Financial Analytics Dashboard (Power BI)
+This project analyzes the financial performance of a simulated K–12 school with 1000 students across classes 1–12 over a 3-year period (2022–2024).
+
+The dashboard helps monitor fee collection, revenue trends, expenses, and overall financial health to support data-driven decision making for school administration.
 
 ## Project Overview
 
